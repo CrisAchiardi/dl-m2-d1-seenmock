@@ -21,4 +21,6 @@ Dentro de un "main" cree 2 "section", una para una barra lateral y otra para el 
 
 * Sidebar - barra lateral</br><img width="400" alt="sidebar" src="https://github.com/CrisAchiardi/dl-m2-d1-seenmock/assets/135924451/921ad057-d746-4a35-aaae-44976ac08ee3"></br></br></br>
 * Contacts - elemento con contactos scroleables</br><img width="400" alt="sidebar" src="https://github.com/CrisAchiardi/dl-m2-d1-seenmock/assets/135924451/edab4e4e-d635-4af1-aa9b-1c5552962bae"></br></br></br>
-* Contents - contenido</br><img width="400" alt="sidebar" src="https://github.com/CrisAchiardi/dl-m2-d1-seenmock/assets/135924451/0be1252f-57b1-44ec-8b2d-646e3992639f">
+* Contents - contenido</br><img width="400" alt="sidebar" src="https://github.com/CrisAchiardi/dl-m2-d1-seenmock/assets/135924451/0be1252f-57b1-44ec-8b2d-646e3992639f"></br></br></br>
+
+-Las imágenes para los contactos fueron generadas usando MidJourney
